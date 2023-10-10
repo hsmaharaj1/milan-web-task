@@ -63,6 +63,13 @@ function LandingCover() {
             <div className="footer">
                 <div className="footer-cont">
                     <img className="footer-logo" src={elanFullLogo}></img>
+                    <div className="footer-contact">
+                        CONTACT US<br/>
+                        Elan & ηvision Web Team<br/>
+                        elan@iith.ac.in<br/>
+                        +91 79952 04145<br/>
+                        +91 93261 68076<br/>
+                    </div>
                 </div>
                 <div className="copyright-msg">© 2023 Copyright: Elan & ηvision Web team</div>
             </div>

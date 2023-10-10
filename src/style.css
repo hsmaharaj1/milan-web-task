@@ -178,7 +178,16 @@
     justify-content: end;
     padding-bottom: 1rem;
 }
+.footer-cont{
+    display: flex;
+    flex-direction: row;
+    column-gap: 5rem;
+}
 .footer-logo{
     height: 10rem;
     width: 10rem;
+}
+.footer-contact{
+    display: flex;
+    flex-direction: column;
 }
