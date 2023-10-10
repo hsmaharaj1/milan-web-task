@@ -15,6 +15,12 @@ import elanFullLogo from './assets/elanFullLogo.png'
 function LandingCover() {
     return (
         <div>
+            <div className="cover-mobile">
+                <img src={elanFullLogo} width="200px" height="200px"></img>
+                <br></br>
+                Not made for Mobile Screen view.<br></br>
+                Kindly Switch to Desktop/Wider Screen for better experience
+            </div>
             <div className="cover">
                 <div className="cover-filter">
                     <div className="title">
