@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/milan-web-task/static/css/main.3c47b14e.css",
+    "main.css": "/milan-web-task/static/css/main.9e3e34c5.css",
     "main.js": "/milan-web-task/static/js/main.6664d943.js",
     "static/media/gallery8.jpg": "/milan-web-task/static/media/gallery8.838be2c86a5aaf776d73.jpg",
     "static/media/gallery5.jpg": "/milan-web-task/static/media/gallery5.e4b5f7969d9eb7149f33.jpg",
@@ -19,11 +19,11 @@
     "static/media/elanFullLogo.png": "/milan-web-task/static/media/elanFullLogo.599bfc47ceadbc027f95.png",
     "static/media/elanLogo.png": "/milan-web-task/static/media/elanLogo.fbb836f08f29e1bc3d22.png",
     "index.html": "/milan-web-task/index.html",
-    "main.3c47b14e.css.map": "/milan-web-task/static/css/main.3c47b14e.css.map",
+    "main.9e3e34c5.css.map": "/milan-web-task/static/css/main.9e3e34c5.css.map",
     "main.6664d943.js.map": "/milan-web-task/static/js/main.6664d943.js.map"
   },
   "entrypoints": [
-    "static/css/main.3c47b14e.css",
+    "static/css/main.9e3e34c5.css",
     "static/js/main.6664d943.js"
   ]
 }
