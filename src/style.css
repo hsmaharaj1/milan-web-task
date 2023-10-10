@@ -227,13 +227,15 @@
 .footer-cont{
     display: flex;
     flex-direction: row;
-    column-gap: 5rem;
+    justify-content: space-between;
+    gap:44rem;
 }
 .footer-logo{
     height: 10rem;
     width: 10rem;
 }
 .footer-contact{
+    width: 20rem;
     display: flex;
     flex-direction: column;
 }
