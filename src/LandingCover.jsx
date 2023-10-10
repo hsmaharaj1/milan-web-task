@@ -59,6 +59,9 @@ function LandingCover() {
                     <img className='gallery-img' src={gallery10}></img>
                 </div>
             </div>
+            <div className="footer">
+                
+            </div>
         </div>
     )
 }
