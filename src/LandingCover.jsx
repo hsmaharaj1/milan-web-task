@@ -60,15 +60,27 @@ function LandingCover() {
                     <img className='gallery-img' src={gallery10}></img>
                 </div>
             </div>
+            <div className="aftermovie-frame">
+                <div className="iframe-title">
+                    AFTERMOVIE
+                </div>
+                <iframe
+                    width="800rem" 
+                    height="600rem" 
+                    src="https://www.youtube-nocookie.com/embed/7RWJMat8JM4?si=x77uLa7WOWXhr5Xr&amp;controls=0" title="YouTube video player" 
+                    frameborder="0" 
+                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen
+                ></iframe>
+            </div>
             <div className="footer">
                 <div className="footer-cont">
                     <img className="footer-logo" src={elanFullLogo}></img>
                     <div className="footer-contact">
-                        CONTACT US<br/>
-                        Elan & ηvision Web Team<br/>
-                        elan@iith.ac.in<br/>
-                        +91 79952 04145<br/>
-                        +91 93261 68076<br/>
+                        CONTACT US<br />
+                        Elan & ηvision Web Team<br />
+                        elan@iith.ac.in<br />
+                        +91 79952 04145<br />
+                        +91 93261 68076<br />
                     </div>
                 </div>
                 <div className="copyright-msg">© 2023 Copyright: Elan & ηvision Web team</div>
