@@ -10,6 +10,7 @@ import gallery7 from './assets/gallery7.jpg'
 import gallery8 from './assets/gallery8.jpg'
 import gallery9 from './assets/gallery9.jpg'
 import gallery10 from './assets/gallery10.jpg'
+import elanFullLogo from './assets/elanFullLogo.png'
 
 function LandingCover() {
     return (
@@ -60,7 +61,10 @@ function LandingCover() {
                 </div>
             </div>
             <div className="footer">
-                
+                <div className="footer-cont">
+                    <img className="footer-logo" src={elanFullLogo}></img>
+                </div>
+                <div className="copyright-msg">© 2023 Copyright: Elan & ηvision Web team</div>
             </div>
         </div>
     )
