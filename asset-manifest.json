@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/milan-web-task/static/css/main.6886b675.css",
+    "main.js": "/milan-web-task/static/js/main.8ccb7511.js",
+    "static/media/gallery8.jpg": "/milan-web-task/static/media/gallery8.838be2c86a5aaf776d73.jpg",
+    "static/media/gallery5.jpg": "/milan-web-task/static/media/gallery5.e4b5f7969d9eb7149f33.jpg",
+    "static/media/gallery3.png": "/milan-web-task/static/media/gallery3.e6f1c5c7e1cc66006ded.png",
+    "static/media/gallery7.jpg": "/milan-web-task/static/media/gallery7.552e9c9cf23a5d8bf487.jpg",
+    "static/media/gallery10.jpg": "/milan-web-task/static/media/gallery10.505ee86960855cfd4d8a.jpg",
+    "static/media/gallery9.jpg": "/milan-web-task/static/media/gallery9.9c87cc1028419cf44554.jpg",
+    "static/media/gallery6.jpg": "/milan-web-task/static/media/gallery6.337aa3dc9195d8e64859.jpg",
+    "static/media/gallery2.png": "/milan-web-task/static/media/gallery2.4173edbd427ab3e6cd42.png",
+    "static/media/gallery1.png": "/milan-web-task/static/media/gallery1.53dc903f4999d529dbc1.png",
+    "static/media/cover2.png": "/milan-web-task/static/media/cover2.f0efd44896f166cdd403.png",
+    "static/media/gallery4.png": "/milan-web-task/static/media/gallery4.c978dddcb50d2dc316d4.png",
+    "static/media/cover3.png": "/milan-web-task/static/media/cover3.58dde21f33922b683e84.png",
+    "static/media/cover1.png": "/milan-web-task/static/media/cover1.5663a29bdb28b76676c0.png",
+    "static/media/cover4.png": "/milan-web-task/static/media/cover4.5f94430cb80a31618cdf.png",
+    "index.html": "/milan-web-task/index.html",
+    "main.6886b675.css.map": "/milan-web-task/static/css/main.6886b675.css.map",
+    "main.8ccb7511.js.map": "/milan-web-task/static/js/main.8ccb7511.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6886b675.css",
+    "static/js/main.8ccb7511.js"
+  ]
+}
