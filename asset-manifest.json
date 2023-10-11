@@ -1,7 +1,7 @@
 {
   "files": {
-    "main.css": "/milan-web-task/static/css/main.06c5914e.css",
-    "main.js": "/milan-web-task/static/js/main.3fea9aff.js",
+    "main.css": "/milan-web-task/static/css/main.33a20b17.css",
+    "main.js": "/milan-web-task/static/js/main.5004a09f.js",
     "static/media/gallery8.jpg": "/milan-web-task/static/media/gallery8.838be2c86a5aaf776d73.jpg",
     "static/media/gallery5.jpg": "/milan-web-task/static/media/gallery5.e4b5f7969d9eb7149f33.jpg",
     "static/media/gallery3.png": "/milan-web-task/static/media/gallery3.e6f1c5c7e1cc66006ded.png",
@@ -19,11 +19,11 @@
     "static/media/elanFullLogo.png": "/milan-web-task/static/media/elanFullLogo.599bfc47ceadbc027f95.png",
     "static/media/elanLogo.png": "/milan-web-task/static/media/elanLogo.fbb836f08f29e1bc3d22.png",
     "index.html": "/milan-web-task/index.html",
-    "main.06c5914e.css.map": "/milan-web-task/static/css/main.06c5914e.css.map",
-    "main.3fea9aff.js.map": "/milan-web-task/static/js/main.3fea9aff.js.map"
+    "main.33a20b17.css.map": "/milan-web-task/static/css/main.33a20b17.css.map",
+    "main.5004a09f.js.map": "/milan-web-task/static/js/main.5004a09f.js.map"
   },
   "entrypoints": [
-    "static/css/main.06c5914e.css",
-    "static/js/main.3fea9aff.js"
+    "static/css/main.33a20b17.css",
+    "static/js/main.5004a09f.js"
   ]
 }
