@@ -14,7 +14,7 @@ import elanFullLogo from './assets/elanFullLogo.png'
 
 function LandingCover() {
     return (
-        <div>
+        <div className='main-cont'>
             <div className="cover-mobile">
                 <img src={elanFullLogo} width="200px" height="200px"></img>
                 <br></br>
@@ -70,13 +70,16 @@ function LandingCover() {
                 <div className="iframe-title">
                     AFTERMOVIE
                 </div>
-                <iframe
-                    width="800rem" 
-                    height="600rem" 
-                    src="https://www.youtube-nocookie.com/embed/7RWJMat8JM4?si=x77uLa7WOWXhr5Xr&amp;controls=0" title="YouTube video player" 
-                    frameborder="0" 
-                    allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen
-                ></iframe>
+                <div className="iframe-cont">
+                    <iframe
+                        width="800rem"
+                        height="600rem"
+                        src="https://www.youtube-nocookie.com/embed/7RWJMat8JM4?si=x77uLa7WOWXhr5Xr&amp;controls=0" title="YouTube video player"
+                        frameborder="0"
+                        allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" allowfullscreen
+                    ></iframe>
+                </div>
+
             </div>
             <div className="footer">
                 <div className="footer-cont">
